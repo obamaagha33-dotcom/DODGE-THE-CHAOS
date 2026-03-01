@@ -1,0 +1,12 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"enermyobject","order":6,"path":"objects/enermyobject/enermyobject.yy",},
+    {"name":"objects","order":3,"path":"objects/objects/objects.yy",},
+    {"name":"playerobject","order":4,"path":"objects/playerobject/playerobject.yy",},
+    {"name":"spawnerobject","order":7,"path":"objects/spawnerobject/spawnerobject.yy",},
+    {"name":"Spriteenermy","order":5,"path":"sprites/Spriteenermy/Spriteenermy.yy",},
+    {"name":"sprites","order":1,"path":"sprites/sprites/sprites.yy",},
+    {"name":"sprplayer","order":2,"path":"sprites/sprplayer/sprplayer.yy",},
+  ],
+}
